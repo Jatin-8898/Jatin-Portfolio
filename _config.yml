@@ -20,7 +20,7 @@ projects:
     # sort_by options:
     #   - pushed
     #   - stars
-    limit: 9
+    limit: 12
     exclude:
         forks: true
         projects:
@@ -40,7 +40,7 @@ social_media:
     twitter: Jatin_8898
     # unsplash: your_username
     # vk: your_username
-    # website: http://your_website_url
+    website: http://jatin-varlyani.ml
     # youtube: your_username
 
 topics:
